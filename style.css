@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-family: 'Segoe UI', sans-serif;
+    color: #fff;
+}
+
+.container {
+    margin-top: 5%;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #6a11cb;
+    border: none;
+}
