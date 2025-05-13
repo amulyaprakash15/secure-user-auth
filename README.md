@@ -21,3 +21,14 @@ This project is a **Flask-based user authentication system** with secure registr
 
 ## 📂 Folder Structure
 
+secure_auth_app/
+│
+├── app.py
+├── users.db
+├── static/
+│   └── style.css
+└── templates/
+    ├── index.html
+    ├── register.html
+    ├── login.html
+    └── dashboard.html
